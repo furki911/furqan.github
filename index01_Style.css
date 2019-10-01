@@ -1,5 +1,5 @@
 body{
-  background-image: url('header.jpg');
+  background-image: url('../images/web/header.jpg');
   background-repeat: no-repeat;  
   background-position: center center;
   background-attachment: fixed;
@@ -16,7 +16,6 @@ p{
   
 }
 .btn{ 
-  position:absolute;
   background-color: #e76634;
   border: 1px #e76634;
   border-radius: 23px;
