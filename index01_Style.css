@@ -16,6 +16,7 @@ p{
   
 }
 .btn{ 
+  position:absolute;
   background-color: #e76634;
   border: 1px #e76634;
   border-radius: 23px;
